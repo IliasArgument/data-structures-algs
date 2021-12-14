@@ -23,7 +23,6 @@ function quickSort(array) {
 }
 
 console.log(quickSort(array1))
-console.log('count', count1)
 
 function quickSortRecursion(array) {
     if (array.length < 2) {
